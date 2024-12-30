@@ -20,10 +20,10 @@ Boston Azure AI properties include:
 
 ## Branding Assets
 
-Boston Azure AI logo:
+Boston Azure AI logo (new):
 
 <tbd>
 
-Boston Azure logo:
+Boston Azure logo (legacy):
 
 ![image](https://github.com/user-attachments/assets/ff71d377-cd70-428d-8f3f-1863c21ff13c)
