@@ -22,7 +22,7 @@ Boston Azure AI properties include:
 
 Boston Azure AI logo (new):
 
-<tbd>
+![image](https://github.com/BostonAzureAI/BostonAzureAI-brand-assets/blob/main/bostonazureai-logo2.png)
 
 Boston Azure logo (legacy):
 
